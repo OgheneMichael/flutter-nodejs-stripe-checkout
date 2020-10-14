@@ -1,0 +1,8 @@
+[submodule "stripe-checkout-server"]
+	path = stripe-checkout-server
+	url = https://github.com/OgheneMichael/stripe-checkout-server
+	branch = master
+[submodule "flutter-stripe-checkout"]
+	path = flutter-stripe-checkout
+	url = https://github.com/OgheneMichael/flutter-stripe-checkout
+	branch = master
